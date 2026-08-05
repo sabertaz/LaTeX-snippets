@@ -6,13 +6,13 @@
   "packageManager": "pnpm@11.15.1",
   "description": "Powerful LaTeX Snippets for CS Paper Writing",
   "license": "MIT",
-  "homepage": "https://github.com/sabertazimi/LaTeX-snippets",
+  "homepage": "https://github.com/sabertaz/LaTeX-snippets",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sabertazimi/LaTeX-snippets.git"
+    "url": "https://github.com/sabertaz/LaTeX-snippets.git"
   },
   "bugs": {
-    "url": "https://github.com/sabertazimi/LaTeX-snippets/issues"
+    "url": "https://github.com/sabertaz/LaTeX-snippets/issues"
   },
   "categories": [
     "Snippets"
