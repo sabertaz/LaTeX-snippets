@@ -1,8 +1,8 @@
 # tex-boilerplate
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/LaTeX-snippets?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/LaTeX-snippets/main/LICENSE)
-[![Code Size](https://img.shields.io/github/languages/code-size/sabertazimi/LaTeX-snippets?logo=visualstudiocode&style=for-the-badge)](https://github.com/sabertaz/LaTeX-snippets)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/LaTeX-snippets?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/LaTeX-snippets/main/LICENSE)
+[![Code Size](https://img.shields.io/github/languages/code-size/sabertaz/LaTeX-snippets?logo=visualstudiocode&style=for-the-badge)](https://github.com/sabertaz/LaTeX-snippets)
 
 Latex templates
 

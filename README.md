@@ -1,8 +1,8 @@
 # LaTeX Snippets for Visual Studio Code
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/LaTex-snippets?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/LaTex-snippets/main/LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/LaTex-snippets/ci.yml?branch=main&logo=github&style=for-the-badge)](https://github.com/sabertaz/LaTex-snippets/actions/workflows/ci.yml)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/LaTex-snippets?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/LaTex-snippets/main/LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertaz/LaTex-snippets/ci.yml?branch=main&logo=github&style=for-the-badge)](https://github.com/sabertaz/LaTex-snippets/actions/workflows/ci.yml)
 [![VSCode](https://img.shields.io/badge/-Marketplace-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=sabertazimi.latex-snippets)
 
 This extension adds snippets for `LaTeX` language.
